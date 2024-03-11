@@ -1,6 +1,6 @@
-# Responsive Portfolio Website Alexa
-## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
-### Responsive Portfolio Website Alexa
+# Welcome To ItsAtlasYT's Website
+## [Follow Me On Youtube]([https://youtu.be/27JtRAI3QO8](https://www.youtube.com/channel/UCU0F-2wG9caLh8RYDfJGEnA))
+### My Portfolio
 
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
